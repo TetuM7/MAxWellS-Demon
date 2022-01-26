@@ -1,4 +1,4 @@
-# MaxwellS-Demon
+# Maxwells-Demon
 Maxwell’s Demon is a computer game in Java  that lets the user play as Maxwell's demon.  It utilses suitable data model to store the state of the game); a GUI view to display this state to the user; and controllers that respond to player inputs and requests as they try to win.  
 
 When a player begins a game of Maxwell's Demon, they are presented with a graphical display
